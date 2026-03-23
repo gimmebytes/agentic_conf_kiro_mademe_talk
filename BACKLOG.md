@@ -2,6 +2,7 @@
 
 ## Next Up
 
+- [ ] Build-Script: `talk.json`-Dateien einsammeln und `index.html` automatisch generieren
 - [ ] Steering Document `#new-talk` anlegen (Rezept für neue Talks im Vibe-Modus)
 - [ ] Alte Talks (PDF/PPTX) zusammensuchen und als Kacheln einpflegen
 - [ ] `web-slides/` und `deckset-slides/` entfernen

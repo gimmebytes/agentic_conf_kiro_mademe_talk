@@ -1,0 +1,13 @@
+{
+  "title": "Kiro Made Me Do It",
+  "subtitle": "Falling Back in Love with Coding (the Hard Way)",
+  "date": "2026-03-22",
+  "conference": "Agentic Conf Hamburg",
+  "conferenceUrl": "https://agentic.hamburg/conf-2026/sessions/kiro-made-me-do-it/",
+  "format": "slides",
+  "type": "lightning",
+  "tags": ["kiro", "ai", "spec-driven-development", "developer-experience"],
+  "abstract": "How Kiro and spec-driven development helped me fall back in love with coding — despite a packed calendar and limited time.",
+  "duration": "10min",
+  "language": "en"
+}
