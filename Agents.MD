@@ -32,6 +32,10 @@ Deployed als GitHub Pages unter `talks.gimmebytes.com`.
 - Problem → Impact/Lösung auf zwei Folien trennen
 - Zeitrahmen pro Talk beachten (typisch 30-45 Min)
 
+## Git
+
+- **Commits:** Conventional Commits verwenden (`feat:`, `fix:`, `docs:`, `chore:`, `style:`, etc.)
+
 ## Öffentliches Repo
 
 Dieses Repo ist öffentlich. Keine internen Firmendaten, keine API-Keys, keine Screenshots interner Systeme.
